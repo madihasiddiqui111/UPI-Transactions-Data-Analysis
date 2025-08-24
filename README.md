@@ -67,21 +67,21 @@ Total Transactions = COUNT(Transactions[TransactionID])
 
 The report uses a variety of visuals and interactive features:
 
-# Slicers → For Date, Payment Mode, Age Group, Gender, City
+**Slicers** → For Date, Payment Mode, Age Group, Gender, City
 
-# Matrix Visual → Comparison of metrics across customer segments
+ **Matrix Visual** → Comparison of metrics across customer segments
 
-# Bar Chart → Sum of Balance over months.
+**Bar Chart** → Sum of Balance over months.
 
-# Conditional Formatting → Highlights high/low transaction values
+**Conditional Formatting**→ Highlights high/low transaction values
 
-# Bookmarks →
+**Bookmarks** →
 
 - One for Transactions Overview
 
 - One for Remaining Balance Analysis
 
-# Synced Slicers → Applied across multiple pages for consistent filtering
+**Synced Slicers** → Applied across multiple pages for consistent filtering
 
 
 
